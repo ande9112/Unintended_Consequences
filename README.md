@@ -8,7 +8,7 @@ Scripts and small data files for Unintended Consequences. In this project, we ar
 - Data/
     - **FN.conf** - Configuration file for making a [Circos](http://circos.ca/) plot. Shows positions of induced base substitutions in FN-mutagenized lines.
     - **Mutation_Rates.txt**: Line-by-line generation, dosage, and number of substitutions 
-    - **WPT.conf** - Configuration file for making a [Circos](http://circos.ca/) plot showing the positions of induces base substitutions in GTTC lines.
+    - **WPT.conf** - Configuration file for making a [Circos](http://circos.ca/) plot showing the positions of induced base substitutions in GTTC lines.
 - Methods/
     - **Estimating_Mutation_Rate.pdf**: Supplemental file describing methods for estimating induced base substitution rate. Introduces terminology, assumptions, and equations used to calculate the rate of base substitution.
     - **Estimating_Mutation_Rate.tex**: TeX source file for the mutation rate estimation document.
