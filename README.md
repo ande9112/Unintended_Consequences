@@ -1,5 +1,5 @@
 # Unintended_Consequences
-Scripts and small data files for Unintended Consequences. In this project, we are comparing the patterns of genomic variation between standing variation in soybean cultivars, induced variation from fast neutron mutagenesis, and somaclonal variation from genetic transformation and tissue cultulre (GTTC). Cultivar data comes from [Anderson et al. 2014](http://www.g3journal.org/content/4/7/1307.long), and fast neutron mutagenesis data comes from [Bolon et al. 2014](http://www.genetics.org/content/198/3/967). GTTC data was collected for this study.
+Scripts and small data files for Unintended Consequences. In this project, we are comparing the patterns of genomic variation between standing variation in soybean cultivars, induced variation from fast neutron mutagenesis, and somaclonal variation from genetic transformation and tissue culture. Cultivar data comes from [Anderson et al. 2014](http://www.g3journal.org/content/4/7/1307.long), and fast neutron mutagenesis data comes from [Bolon et al. 2014](http://www.genetics.org/content/198/3/967). Transfomration data was collected for this study.
 
 ## Manuscript Status
 *Submitted*
